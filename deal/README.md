@@ -2,6 +2,7 @@
     JDK 8
     Spring Boot 2.5.15
     Mybatis 3.5.6
+	Sqlite
     Other support libs
     
     
